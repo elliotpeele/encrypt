@@ -1,0 +1,8 @@
+This program provides an example of how to use the golang openpgp package
+to create, encrypt, and decrypt.
+
+https://godoc.org/golang.org/x/crypto/openpgp
+
+Hopefully this is helpful to others.
+
+Note that I am not a cryptography/security expert. There may be bugs.
